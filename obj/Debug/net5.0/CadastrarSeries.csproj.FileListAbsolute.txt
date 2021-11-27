@@ -1,0 +1,16 @@
+E:\Documentos\GIT\CadastrarSeries\bin\Debug\net5.0\CadastrarSeries.exe
+E:\Documentos\GIT\CadastrarSeries\bin\Debug\net5.0\CadastrarSeries.deps.json
+E:\Documentos\GIT\CadastrarSeries\bin\Debug\net5.0\CadastrarSeries.runtimeconfig.json
+E:\Documentos\GIT\CadastrarSeries\bin\Debug\net5.0\CadastrarSeries.runtimeconfig.dev.json
+E:\Documentos\GIT\CadastrarSeries\bin\Debug\net5.0\CadastrarSeries.dll
+E:\Documentos\GIT\CadastrarSeries\bin\Debug\net5.0\ref\CadastrarSeries.dll
+E:\Documentos\GIT\CadastrarSeries\bin\Debug\net5.0\CadastrarSeries.pdb
+E:\Documentos\GIT\CadastrarSeries\obj\Debug\net5.0\CadastrarSeries.csproj.AssemblyReference.cache
+E:\Documentos\GIT\CadastrarSeries\obj\Debug\net5.0\CadastrarSeries.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\GIT\CadastrarSeries\obj\Debug\net5.0\CadastrarSeries.AssemblyInfoInputs.cache
+E:\Documentos\GIT\CadastrarSeries\obj\Debug\net5.0\CadastrarSeries.AssemblyInfo.cs
+E:\Documentos\GIT\CadastrarSeries\obj\Debug\net5.0\CadastrarSeries.csproj.CoreCompileInputs.cache
+E:\Documentos\GIT\CadastrarSeries\obj\Debug\net5.0\CadastrarSeries.dll
+E:\Documentos\GIT\CadastrarSeries\obj\Debug\net5.0\ref\CadastrarSeries.dll
+E:\Documentos\GIT\CadastrarSeries\obj\Debug\net5.0\CadastrarSeries.pdb
+E:\Documentos\GIT\CadastrarSeries\obj\Debug\net5.0\CadastrarSeries.genruntimeconfig.cache
